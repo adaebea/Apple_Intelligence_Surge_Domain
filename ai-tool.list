@@ -30,3 +30,8 @@ DOMAIN-SUFFIX,huggingface.co,Main
 # Midjourney
 DOMAIN,midjourney.com,Main
 DOMAIN-SUFFIX,midjourney.com,Main
+
+# Others (AI utilities / proxies)
+DOMAIN,replicate.com,Main
+DOMAIN,stability.ai,Main
+DOMAIN-SUFFIX,stability.ai,Main
