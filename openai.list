@@ -3,8 +3,11 @@
 # Updated: 2025-11-06
 # Policy: Main
 
+DOMAIN-SUFFIX,chatgpt.com,Main
 DOMAIN-SUFFIX,openai.com,Main
 DOMAIN,chat.openai.com,Main
+DOMAIN,auth.openai.com,Main
+DOMAIN,ab.chatgpt.com,Main
 DOMAIN-SUFFIX,oaiusercontent.com,Main
 DOMAIN-SUFFIX,oaistatic.com,Main
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Main
@@ -21,3 +24,41 @@ DOMAIN,openaicom-production-gcp.chatgpt.live,Main
 DOMAIN,openaicom-production-gcp.chatgpt.net,Main
 DOMAIN,openaicom-production-gcp.chatgpt-api.net,Main
 DOMAIN-SUFFIX,openai.azure.com,Main
+
+# 其他AI工具
+# Cursor Editor
+DOMAIN,api2.cursor.sh,Main
+DOMAIN,auth.cursor.sh,Main
+DOMAIN,cursor.sh,Main
+DOMAIN-SUFFIX,cursor.sh,Main
+
+# Anthropic Claude
+DOMAIN,claude.ai,Main
+DOMAIN,api.claude.ai,Main
+
+# Perplexity AI
+DOMAIN,perplexity.ai,Main
+DOMAIN-SUFFIX,perplexity.ai,Main
+
+# Poe / Quora
+DOMAIN,poe.com,Main
+DOMAIN,api.poe.com,Main
+DOMAIN-SUFFIX,poe.com,Main
+
+# Notion AI
+DOMAIN,notion.so,Main
+DOMAIN,api.notion.so,Main
+DOMAIN-SUFFIX,notion.so,Main
+
+# Hugging Face
+DOMAIN,huggingface.co,Main
+DOMAIN-SUFFIX,huggingface.co,Main
+
+# Midjourney
+DOMAIN,midjourney.com,Main
+DOMAIN-SUFFIX,midjourney.com,Main
+
+# Others (AI utilities / proxies)
+DOMAIN,replicate.com,Main
+DOMAIN,stability.ai,Main
+DOMAIN-SUFFIX,stability.ai,Main
