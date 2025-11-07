@@ -1,0 +1,32 @@
+# 其他AI工具
+# Cursor Editor
+DOMAIN,api2.cursor.sh,Main
+DOMAIN,auth.cursor.sh,Main
+DOMAIN,cursor.sh,Main
+DOMAIN-SUFFIX,cursor.sh,Main
+
+# Anthropic Claude
+DOMAIN,claude.ai,Main
+DOMAIN,api.claude.ai,Main
+
+# Perplexity AI
+DOMAIN,perplexity.ai,Main
+DOMAIN-SUFFIX,perplexity.ai,Main
+
+# Poe / Quora
+DOMAIN,poe.com,Main
+DOMAIN,api.poe.com,Main
+DOMAIN-SUFFIX,poe.com,Main
+
+# Notion AI
+DOMAIN,notion.so,Main
+DOMAIN,api.notion.so,Main
+DOMAIN-SUFFIX,notion.so,Main
+
+# Hugging Face
+DOMAIN,huggingface.co,Main
+DOMAIN-SUFFIX,huggingface.co,Main
+
+# Midjourney
+DOMAIN,midjourney.com,Main
+DOMAIN-SUFFIX,midjourney.com,Main
